@@ -1,0 +1,61 @@
+{
+    "ballu": {
+        "13/10/2024": [
+            {
+                "name": "dahi",
+                "price": "32"
+            },
+            {
+                "name": "dudh",
+                "price": "31"
+            }
+        ],
+
+        "14/10/2024": [
+            {
+                "name": "dal",
+                "price": "120"
+            },
+            {
+                "name": "dudh",
+                "price": "31"
+            },
+            {
+                "name": "chaval",
+                "price": "40"
+            },
+            {
+                "name": "jira",
+                "price": "10"
+            },
+            {
+                "name": "coldrink",
+                "price": "50"
+            }
+        ],
+
+
+        "15/10/2024": [
+            {
+                "name": "biscuit",
+                "price": "15"
+            },
+            {
+                "name": "dudh",
+                "price": "31"
+            },
+            {
+                "name": "bidi",
+                "price": "10"
+            },
+            {
+                "name": "patanjali toothpaste",
+                "price": "60"
+            },
+            {
+                "name": "machise",
+                "price": "10"
+            }
+        ]
+    }
+}
