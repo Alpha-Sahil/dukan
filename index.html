@@ -43,7 +43,7 @@
 
                     let total = createTable(response[name], keys)
 
-                    summary.innerText = `${keys.shift()} - ${keys.pop()}\n Total: ${total.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue), 0)}`
+                    summary.innerText = `Dates: ${keys.shift()} - ${keys.pop()}\n Total: ${total.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue), 0)}`
                 } else {
                     summary.innerText = 'No Data Found'
                 }
