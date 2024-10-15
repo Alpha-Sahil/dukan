@@ -32,6 +32,8 @@
 
                 const name = urlParams.get('name');
 
+                let summary = document.getElementById('summary')
+
                 if (response[name]) {
                     let keys = Object.keys(response[name])
 
@@ -41,9 +43,9 @@
 
                     let total = createTable(response[name], keys)
 
-                    let summary = document.getElementById('summary')
-
                     summary.innerText = `${keys.shift()} - ${keys.pop()}\n Total: ${total.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue), 0)}`
+                } else {
+                    summary.innerText = 'No Data Found'
                 }
 
                 let loader = document.getElementById('loader')
