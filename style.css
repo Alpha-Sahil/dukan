@@ -164,11 +164,11 @@ h2 a {
     justify-content: center;
     flex-direction: column;
     position: relative;
-    padding: 5em;
+    padding: 0 5em;
 }
 
 .date {
-    /* position: absolute; */
+    position: absolute;
     background-color: #FFF842;
     color: #403E10;
     font-weight: bold;
@@ -211,4 +211,10 @@ h2 a {
     transition-duration: 0.4s;
     transition-property: all;
     transition-timing-function: line;
+}
+
+.summary {
+    margin: 1.5em 0;
+    padding: 1em;
+    line-height: 2em;
 }

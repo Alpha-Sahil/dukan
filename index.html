@@ -11,9 +11,13 @@
         <div class="main-inner-container">
             <div class="main-box" id="mainBox">
                 <div class="heading">
-                    <h1>
+                    <h1 id="headingh1">
                         Welcome Sahil
                     </h1>
+                </div>
+
+                <div class="summary yellow-background" id="summary">
+
                 </div>
 
                 <div class="loader" id="loader"></div>
@@ -24,31 +28,50 @@
         fetch('./saman.json')
             .then((response) => response.json())
             .then((response) => {
-                console.log(response.ballu)
-                let currentCustomer = response.ballu
+                const urlParams = new URLSearchParams(window.location.search);
 
-                let keys = Object.keys(response.ballu)
+                const name = urlParams.get('name');
 
-                let length = Object.keys(response.ballu).length;
+                if (response[name]) {
+                    let keys = Object.keys(response[name])
 
-                for(let i = 0; i < length; i++) {
-                    let mainBox = document.getElementById('mainBox')
+                    let headinhH1 = document.getElementById('headingh1')
+                    
+                    headinhH1.innerText = `Welcome ${name}`
 
-                    let mainSamanDiv = createMainBox(mainBox)
+                    let total = createTable(response[name], keys)
 
-                    let dateDiv = createDateElement(mainSamanDiv, keys[i])
+                    let summary = document.getElementById('summary')
 
-                    let containerTable = createSamanTable(mainSamanDiv)
-
-                    createTableHeader(containerTable)
-
-                    createTableRows(containerTable, currentCustomer[keys[i]])
+                    summary.innerText = `${keys.shift()} - ${keys.pop()}\n Total: ${total.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue), 0)}`
                 }
 
                 let loader = document.getElementById('loader')
 
                 loader.style.display = 'none'
             });
+
+        function createTable(currentCustomer, keys) {
+            let total = []
+
+            for(let i = 0; i < keys.length; i++) {
+                let mainBox = document.getElementById('mainBox')
+
+                let mainSamanDiv = createMainBox(mainBox)
+
+                let dateDiv = createDateElement(mainSamanDiv, keys[i])
+
+                let containerTable = createSamanTable(mainSamanDiv)
+
+                createTableHeader(containerTable)
+
+                let monthTotal = createTableRows(containerTable, currentCustomer[keys[i]])
+
+                total.push(monthTotal)
+            }
+
+            return total
+        }
 
         function createMainBox(mainBox) {
             let mainSamanDiv = document.createElement('div');
@@ -156,13 +179,21 @@
 
             td2.classList.add('yellow-background')
 
-            td2.textContent = data.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue.price), 0);
+            let total = getTotal(data)
+
+            td2.textContent = total;
 
             tr.appendChild(td1);
             tr.appendChild(td2);
             tbody.appendChild(tr);
 
             containerTable.appendChild(tbody)
+
+            return total
+        }
+
+        function getTotal(data) {
+            return data.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue.price), 0);
         }
     </script>
 </body>
