@@ -1,0 +1,159 @@
+{
+    "06/10/2024": [
+        {
+            "name": "chaval",
+            "price": "180"
+        }
+    ],
+
+    "08/10/2024": [
+        {
+            "name": "Tel",
+            "price": "160"
+        },
+
+        {
+            "name": "Atta",
+            "price": "170"
+        }
+    ],
+
+    "12/10/2024": [
+        {
+            "name": "dudh",
+            "price": "73"
+        },
+        {
+            "name": "Chini",
+            "price": "23"
+        },
+        {
+            "name": "Dudh",
+            "price": "30"
+        },
+        {
+            "name": "Namak",
+            "price": "28"
+        }
+    ],
+
+    "15/10/2024": [
+        {
+            "name": "Dal",
+            "price": "90"
+        },
+
+        {
+            "name": "Chaval",
+            "price": "40"
+        },
+
+        {
+            "name": "Atta",
+            "price": "170"
+        },
+
+        {
+            "name": "Tel",
+            "price": "150"
+        },
+
+        {
+            "name": "Dal",
+            "price": "60"
+        }
+    ],
+
+    "16/10/2024": [
+        {
+            "name": "Surf",
+            "price": "70"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "51"
+        },
+
+        {
+            "name": "Sabun",
+            "price": "25"
+        }
+    ],
+
+    "17/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "51"
+        }
+    ],
+
+    "18/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "46"
+        },
+
+        {
+            "name": "chaval",
+            "price": "80"
+        }
+    ],
+
+    "19/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "56"
+        }
+    ],
+
+    "22/10/2024": [
+        {
+            "name": "Chaval",
+            "price": "163"
+        },
+
+        {
+            "name": "Dal",
+            "price": "90"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "76"
+        }
+    ],
+
+    "24/10/2024": [
+        {
+            "name": "Atta",
+            "price": "175"
+        },
+
+        {
+            "name": "Tel",
+            "price": "160"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "51"
+        }
+    ],
+
+
+    "25/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "56"
+        }
+    ],
+
+
+    "26/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "61"
+        }
+    ]
+}

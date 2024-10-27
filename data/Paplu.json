@@ -1,0 +1,172 @@
+{
+    "13/10/2024": [
+        {
+            "name": "coldrink",
+            "price": "30"
+        },
+        {
+            "name": "coldrink",
+            "price": "70"
+        }
+    ],
+
+    "14/10/2024": [
+        {
+            "name": "Maggi",
+            "price": "20"
+        }
+    ],
+
+    "15/10/2024": [
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "Atta",
+            "price": "320"
+        },
+
+        {
+            "name": "Mathi",
+            "price": "120"
+        },
+
+        {
+            "name": "coldrink",
+            "price": "30"
+        },
+
+        {
+            "name": "Bidi",
+            "price": "20"
+        }
+    ],
+
+    "19/10/2014": [
+        {
+            "name": "Mathi",
+            "price": "10"
+        },
+
+        {
+            "name": "Mathi",
+            "price": "20"
+        },
+
+        {
+            "name": "Maggi",
+            "price": "50"
+        },
+
+        {
+            "name": "Mathi",
+            "price": "20"
+        },
+         
+        {
+            "name": "Chips",
+            "price": "35"
+        },
+
+        {
+            "name": "Mathi",
+            "price": "10"
+        }
+    ],
+
+    "20/10/2024": [
+        {
+            "name": "Namkeen",
+            "price": "10"
+        },
+
+        {
+            "name": "Namkeen",
+            "price": "10"
+        },
+
+        {
+            "name": "Chips",
+            "price": "20"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Pepsi",
+            "price": "20"
+        },
+
+        {
+            "name": "Namkeen",
+            "price": "20"
+        },
+
+        {
+            "name": "coldrink",
+            "price": "90"
+        },
+
+        {
+            "name": "Kurkura",
+            "price": "15"
+        },
+
+        {
+            "name": "Saman",
+            "price": "40"
+        },
+
+        {
+            "name": "Dahi",
+            "price": "94"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "26"
+        },
+
+        {
+            "name": "coldrink",
+            "price": "95"
+        },
+
+        {
+            "name": "Chips",
+            "price": "10"
+        },
+
+        {
+            "name": "Mirchi",
+            "price": "20"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "27/10/2024": [
+        {
+            "name": "Dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "Namkeen",
+            "price": "10"
+        },
+
+        {
+            "name": "Lahori Zeera",
+            "price": "10"
+        }
+    ]
+}
