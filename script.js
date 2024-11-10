@@ -169,6 +169,11 @@ function fetchData() {
                 summary.innerText = `Dates: ${keys.shift()} - ${keys.pop()}\n Total: ${total.reduce((accumulator, currentValue) => accumulator + parseInt(currentValue), 0)}`
 
                 loader.style.display = 'none'
+            })
+            .catch(() => {
+                summary.innerText = 'No Data Found'
+
+                loader.style.display = 'none'
             });
     }
 }
