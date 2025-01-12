@@ -629,5 +629,22 @@
             "name": "kurkura",
             "price": "10"
         }
+    ],
+
+    "12/1/2025": [
+        {
+            "name": "tel",
+            "price": "20"
+        },
+
+        {
+            "name": "powder",
+            "price": "20"
+        },
+
+        {
+            "name": "shampoo",
+            "price": "10"
+        }
     ]
 }
