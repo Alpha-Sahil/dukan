@@ -1,179 +1,194 @@
 {
-    "13/10/2024": [
+    "12/12/2024": [
         {
-            "name": "coldrink",
-            "price": "30"
-        },
-        {
-            "name": "coldrink",
-            "price": "70"
-        }
-    ],
-
-    "14/10/2024": [
-        {
-            "name": "Maggi",
-            "price": "20"
-        }
-    ],
-
-    "15/10/2024": [
-        {
-            "name": "biscuit",
-            "price": "15"
-        },
-
-        {
-            "name": "Atta",
-            "price": "320"
-        },
-
-        {
-            "name": "Mathi",
-            "price": "120"
-        },
-
-        {
-            "name": "coldrink",
-            "price": "30"
-        },
-
-        {
-            "name": "Bidi",
-            "price": "20"
-        }
-    ],
-
-    "19/10/2014": [
-        {
-            "name": "Mathi",
+            "name": "saman",
             "price": "10"
         },
-
         {
-            "name": "Mathi",
+            "name": "saman",
+            "price": "40"
+        },
+        {
+            "name": "saman",
+            "price": "10"
+        },
+        {
+            "name": "saman",
             "price": "20"
         },
-
         {
-            "name": "Maggi",
-            "price": "50"
-        },
-
-        {
-            "name": "Mathi",
-            "price": "20"
-        },
-         
-        {
-            "name": "Chips",
-            "price": "35"
-        },
-
-        {
-            "name": "Mathi",
+            "name": "saman",
             "price": "10"
         }
     ],
 
-    "20/10/2024": [
+    "15/12/2024": [
+        {
+            "name": "jarada",
+            "price": "10"
+        },
         {
             "name": "Namkeen",
             "price": "10"
         },
-
         {
-            "name": "Namkeen",
-            "price": "10"
-        },
-
-        {
-            "name": "Chips",
+            "name": "saman",
             "price": "20"
-        },
+        }
+    ],
 
+    "16/12/2024": [
         {
-            "name": "Dudh",
+            "name": "dudh",
             "price": "32"
         },
 
         {
-            "name": "Pepsi",
-            "price": "20"
+            "name": "saman",
+            "price": "12"
         },
 
         {
-            "name": "Namkeen",
-            "price": "20"
+            "name": "saman",
+            "price": "84"
         },
 
         {
-            "name": "coldrink",
-            "price": "90"
+            "name": "saman",
+            "price": "51"
         },
 
         {
-            "name": "Kurkura",
-            "price": "15"
+            "name": "saman",
+            "price": "10"
         },
 
         {
-            "name": "Saman",
+            "name": "saman",
+            "price": "72"
+        }
+    ],
+
+    "22/12/2014": [
+        {
+            "name": "atta",
+            "price": "375"
+        },
+
+        {
+            "name": "saman",
             "price": "40"
         },
 
         {
-            "name": "Dahi",
-            "price": "94"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "26"
-        },
-
-        {
-            "name": "coldrink",
-            "price": "95"
-        },
-
-        {
-            "name": "Chips",
-            "price": "10"
-        },
-
-        {
-            "name": "Mirchi",
+            "name": "saman",
             "price": "20"
         },
 
         {
-            "name": "Dudh",
-            "price": "32"
+            "name": "saman",
+            "price": "20"
         }
     ],
 
-    "27/10/2024": [
+    "25/12/2024": [
         {
-            "name": "Dudh",
-            "price": "33"
-        },
-
-        {
-            "name": "Namkeen",
+            "name": "mathi",
             "price": "10"
         },
 
         {
-            "name": "Lahori Zeera",
+            "name": "dudh",
+            "price": "31"
+        },
+
+        {
+            "name": "batasha",
             "price": "10"
         }
     ],
 
-    "28/10/2024": [
+    "26/12/2024": [
         {
-            "name": "Maggi",
+            "name": "saman",
+            "price": "20"
+        },
+
+        {
+            "name": "saman",
+            "price": "20"
+        },
+
+        {
+            "name": "saman",
             "price": "50"
+        },
+
+        {
+            "name": "dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "saman",
+            "price": "10"
+        },
+
+        {
+            "name": "saman",
+            "price": "20"
+        },
+
+        {
+            "name": "saman",
+            "price": "40"
+        },
+
+        {
+            "name": "saman",
+            "price": "5"
+        },
+
+        {
+            "name": "dudh",
+            "price": "31"
+        },
+
+        {
+            "name": "samana",
+            "price": "10"
+        },
+
+        {
+            "name": "samana",
+            "price": "20"
+        },
+
+        {
+            "name": "samana",
+            "price": "10"
+        },
+
+        {
+            "name": "samana",
+            "price": "10"
+        }
+    ],
+
+    "27/12/2024": [
+        {
+            "name": "saman",
+            "price": "40"
+        },
+
+        {
+            "name": "dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "saman",
+            "price": "20"
         },
 
         {
@@ -182,66 +197,48 @@
         },
 
         {
-            "name": "fanta",
-            "price": "100"
+            "name": "saman",
+            "price": "52"
         },
 
         {
-            "name": "soyabean",
-            "price": "30"
-        },
-
-        {
-            "name": "coldrink",
-            "price": "20"
-        },
-
-        {
-            "name": "tape",
-            "price": "20"
-        }
-    ],
-
-    "31/10/24": [
-        {
-            "name": "Dudh",
-            "price": "26"
-        }
-    ],
-
-    "4/11/24": [
-        {
-            "name": "chiz",
-            "price": "20"
-        }
-    ],
-
-    "7/11/24": [
-        {
-            "name": "mathi",
-            "price": "10"
-        },
-
-        {
-            "name": "dhup",
-            "price": "20"
-        },
-
-        {
-            "name": "chiz",
-            "price": "36"
-        }
-    ],
-
-    "9/11/24": [
-        {
-            "name": "chiz",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
+            "name": "diaper",
             "price": "32"
+        }
+    ], 
+
+    "30/12/2024": [
+        {
+            "name": "saman",
+            "price": "42"
+        },
+
+        {
+            "name": "saman",
+            "price": "20"
+        },
+
+        {
+            "name": "saman",
+            "price": "40"
+        },
+
+        {
+            "name": "saman",
+            "price": "10"
+        },
+
+        {
+            "name": "saman",
+            "price": "35"
+        }
+    ],
+
+    "31/12/2024": [
+
+        {
+            "name": "dudh 31 * 32",
+            "price": "992"
         }
     ]
 }
