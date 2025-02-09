@@ -1,218 +1,98 @@
 {
-    "12/12/2024": [
+    "13/1/2025": [
         {
             "name": "saman",
             "price": "10"
+        },
+        {
+            "name": "saman",
+            "price": "20"
+        },
+        {
+            "name": "saman",
+            "price": "30"
+        }
+    ],
+
+    "16/1/2025": [
+        {
+            "name": "atta",
+            "price": "400"
+        },
+        {
+            "name": "saman",
+            "price": "20"
         },
         {
             "name": "saman",
             "price": "40"
-        },
+        }
+    ],
+
+    "19/1/2025": [
         {
-            "name": "saman",
-            "price": "10"
-        },
-        {
-            "name": "saman",
+            "name": "ezi",
             "price": "20"
         },
+
         {
             "name": "saman",
             "price": "10"
         }
     ],
 
-    "15/12/2024": [
+    "22/1/2025": [
         {
-            "name": "jarada",
-            "price": "10"
+            "name": "mathi",
+            "price": "15"
         },
-        {
-            "name": "Namkeen",
-            "price": "10"
-        },
-        {
-            "name": "saman",
-            "price": "20"
-        }
-    ],
 
-    "16/12/2024": [
         {
             "name": "dudh",
             "price": "32"
         },
 
         {
-            "name": "saman",
-            "price": "12"
+            "name": "maggi",
+            "price": "50"
         },
 
         {
-            "name": "saman",
-            "price": "84"
-        },
-
-        {
-            "name": "saman",
-            "price": "51"
-        },
-
-        {
-            "name": "saman",
+            "name": "kurkura",
             "price": "10"
-        },
-
-        {
-            "name": "saman",
-            "price": "72"
         }
     ],
 
-    "22/12/2014": [
-        {
-            "name": "atta",
-            "price": "375"
-        },
-
-        {
-            "name": "saman",
-            "price": "40"
-        },
-
-        {
-            "name": "saman",
-            "price": "20"
-        },
-
-        {
-            "name": "saman",
-            "price": "20"
-        }
-    ],
-
-    "25/12/2024": [
+    "27/1/2025": [
         {
             "name": "mathi",
             "price": "10"
         },
 
         {
-            "name": "dudh",
-            "price": "31"
+            "name": "kurkura",
+            "price": "10"
         },
 
         {
-            "name": "batasha",
+            "name": "lahori zeera",
             "price": "10"
         }
     ],
 
-    "26/12/2024": [
-        {
-            "name": "saman",
-            "price": "20"
-        },
-
-        {
-            "name": "saman",
-            "price": "20"
-        },
-
-        {
-            "name": "saman",
-            "price": "50"
-        },
-
-        {
-            "name": "dudh",
-            "price": "32"
-        },
-
+    "28/12/2024": [
         {
             "name": "saman",
             "price": "10"
-        },
-
-        {
-            "name": "saman",
-            "price": "20"
-        },
-
-        {
-            "name": "saman",
-            "price": "40"
-        },
-
-        {
-            "name": "saman",
-            "price": "5"
-        },
-
-        {
-            "name": "dudh",
-            "price": "31"
-        },
-
-        {
-            "name": "samana",
-            "price": "10"
-        },
-
-        {
-            "name": "samana",
-            "price": "20"
-        },
-
-        {
-            "name": "samana",
-            "price": "10"
-        },
-
-        {
-            "name": "samana",
-            "price": "10"
-        }
-    ],
-
-    "27/12/2024": [
-        {
-            "name": "saman",
-            "price": "40"
-        },
-
-        {
-            "name": "dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "saman",
-            "price": "20"
         },
 
         {
             "name": "atta",
-            "price": "370"
-        },
-
-        {
-            "name": "saman",
-            "price": "52"
-        },
-
-        {
-            "name": "diaper",
-            "price": "32"
+            "price": "380"
         }
-    ], 
+    ],
 
-    "30/12/2024": [
-        {
-            "name": "saman",
-            "price": "42"
-        },
-
+    "29/1/2025": [
         {
             "name": "saman",
             "price": "20"
@@ -220,24 +100,103 @@
 
         {
             "name": "saman",
-            "price": "40"
+            "price": "20"
+        }
+    ], 
+
+    "30/1/2024": [
+        {
+            "name": "saman",
+            "price": "60"
+        }
+    ],
+
+    "1/2/2025": [
+        {
+            "name": "samosa",
+            "price": "30"
+        }
+    ],
+
+    "2/2/2025": [
+        {
+            "name": "atta",
+            "price": "385"
+        },
+
+        {
+            "name": "dudh",
+            "price": "126"
         },
 
         {
             "name": "saman",
+            "price": "12"
+        }
+    ],
+
+    "3/2/2025": [
+        {
+            "name": "bourbon",
+            "price": "10"
+        },
+
+        {
+            "name": "dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "jarada",
             "price": "10"
         },
 
         {
             "name": "saman",
-            "price": "35"
+            "price": "10"
         }
     ],
 
-    "31/12/2024": [
+    "4/2/2025": [
+        {
+            "name": "tel",
+            "price": "160"
+        },
 
         {
-            "name": "dudh 31 * 32",
+            "name": "colgate",
+            "price": "20"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "10"
+        }
+    ],
+
+    "5/2/2025": [
+        {
+            "name": "atta",
+            "price": "395"
+        },
+
+        {
+            "name": "mathi",
+            "price": "10"
+        },
+
+        {
+            "name": "jarada",
+            "price": "10"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "10"
+        },
+
+        {
+            "name": "31 * 32",
             "price": "992"
         }
     ]
