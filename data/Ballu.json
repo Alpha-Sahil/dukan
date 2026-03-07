@@ -1,406 +1,225 @@
 {
-    "09/01/2026": [
+    "09/02/2026": [
         {
             "name": "Old pending",
-            "price": "232"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "kurkura",
-            "price": "30"
-        }
-    ],
-
-    "10/01/2026": [
-        {
-            "name": "Cream",
-            "price": "10"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "kurkura",
-            "price": "20"
-        },
-
-        {
-            "name": "Bread",
-            "price": "40"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "11/01/2026": [
-        {
-            "name": "kurkura",
-            "price": "25"
-        }
-    ],
-
-    "12/01/2026": [
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "kurkura",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "5"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "13/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "14/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "15/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "15"
-        }
-    ],
-
-    "16/01/2026": [
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "Dahi",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "Color",
-            "price": "15"
-        }
-    ],
-
-    "17/01/2026": [
-        {
-            "name": "Kurkura",
-            "price": "20"
-        },
-
-        {
-            "name": "ezee",
-            "price": "30"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "18/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Shampoo",
-            "price": "20"
-        },
-
-        {
-            "name": "Notebook",
-            "price": "20"
-        }
-    ],
-
-    "19/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "20/01/2026": [
-        {
-            "name": "tel",
-            "price": "10"
-        },
-
-        {
-            "name": "Shampoo",
-            "price": "25"
-        }
-    ],
-
-    "21/01/2026": [
-        {
-            "name": "Biscut",
-            "price": "30"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "30"
-        },
-        
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "22/01/2026": [
-        {
-            "name": "Biscut",
-            "price": "25"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "30"
-        }
-    ],
-
-    "23/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "30"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "15"
-        }
-    ],
-
-    "24/01/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "kurkura",
-            "price": "30"
-        },
-        
-        {
-            "name": "Saraf",
-            "price": "50"
-        },
-
-        {
-            "name": "Ezee",
-            "price": "20"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        }
-    ],
-
-    "25/01/2026": [
-        {
-            "name": "Shampoo",
-            "price": "2"
-        },
-
-        {
-            "name": "Bandage",
-            "price": "4"
-        },
-        
-        {
-            "name": "Dahi",
-            "price": "40"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "26/01/2026": [
-        {
-            "name": "Biscut",
-            "price": "25"
-        },
-
-        {
-            "name": "DAhi",
-            "price": "35"
-        }
-    ],
-
-    "27/01/2026": [
-        {
-            "name": "Dudh",
             "price": "66"
         },
 
         {
-            "name": "Besan",
-            "price": "30"
-        },
-        
-        {
-            "name": "Bread",
+            "name": "Biscut",
             "price": "20"
         },
 
         {
             "name": "Biscut",
-            "price": "20"
-        }
-    ],
+            "price": "15"
+        },
+        
+        {
+            "name": "maggi",
+            "price": "40"
+        },
 
-    "28/01/2026": [
+        {
+            "name": "Biscut",
+            "price": "30"
+        },
+
         {
             "name": "Dudh",
             "price": "32"
+        }
+    ],
+
+    "10/02/2026": [
+        {
+            "name": "Biscut",
+            "price": "30"
         },
 
+        {
+            "name": "Shampoo",
+            "price": "25"
+        }
+    ],
+
+    "11/02/2026": [
         {
             "name": "kurkura",
             "price": "30"
         },
-        
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "12/02/2026": [
+        {
+            "name": "Biscut",
+            "price": "25"
+        },
+
+        {
+            "name": "maggi",
+            "price": "30"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "13/02/2026": [
+        {
+            "name": "Biscut (14 + 5)",
+            "price": "19"
+        },
+
         {
             "name": "Dudh",
             "price": "32"
         },
 
         {
-            "name": "Biscut",
+            "name": "Copy",
+            "price": "80"
+        },
+
+        {
+            "name": "Kurkura (10 + 10)",
             "price": "20"
         }
     ],
 
-    "29/01/2026": [
+    "14/02/2026": [
+        {
+            "name": "chips",
+            "price": "20"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "10"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Maggi",
+            "price": "20"
+        }
+    ],
+
+    "15/02/2026": [
+        {
+            "name": "Dhup",
+            "price": "40"
+        },
+
         {
             "name": "Chai",
             "price": "40"
         },
 
         {
+            "name": "Kurkura",
+            "price": "10"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "16/02/2026": [
+        {
+            "name": "kurkura",
+            "price": "10"
+        },
+    
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "17/02/2026": [
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "20"
+        }
+    ],
+
+    "18/02/2026": [
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
             "name": "Biscut",
             "price": "20"
         },
         
         {
+            "name": "Dahi",
+            "price": "20"
+        },
+
+        {
             "name": "Kurkura",
+            "price": "50"
+        }
+    ],
+
+    "19/02/2026": [
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Chai",
+            "price": "10"
+        },
+        
+        {
+            "name": "Biscut",
+            "price": "35"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "10"
+        }
+    ],
+
+    "20/02/2026": [
+        {
+            "name": "Biscut",
             "price": "40"
         },
 
         {
+            "name": "Kurkura",
+            "price": "40"
+        }
+    ],
+
+    "21/02/2026": [
+        {
             "name": "Dudh",
             "price": "32"
         },
@@ -408,60 +227,165 @@
         {
             "name": "Biscut",
             "price": "20"
+        },
+        
+        {
+            "name": "Chai",
+            "price": "45"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "20"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "35"
+        }
+    ],
+
+    "22/02/2026": [
+        {
+            "name": "Saraf",
+            "price": "70"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+        
+        {
+            "name": "kurkura",
+            "price": "10"
+        },
+
+        {
+            "name": "dahi",
+            "price": "20"
+        }
+    ],
+
+    "23/02/2026": [
+        {
+            "name": "powder",
+            "price": "10"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "10"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Biscut",
+            "price": "25"
+        }
+    ],
+
+    "24/02/2026": [
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "dahi",
+            "price": "10"
+        },
+        
+        {
+            "name": "powder",
+            "price": "10"
+        }
+    ],
+
+    "25/02/2026": [
+        {
+            "name": "Biscut",
+            "price": "50"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
         },
         
         {
             "name": "Namkeen",
-            "price": "15"
+            "price": "30"
         }
     ],
 
-    "31/01/2026": [
+    "26/02/2026": [
+        {
+            "name": "Biscut",
+            "price": "35"
+        },
+
+        {
+            "name": "coldrink",
+            "price": "30"
+        },
+
+        {
+            "name": "Dudh + other saman",
+            "price": "42"
+        }
+    ],
+
+    "27/02/2026": [
+        {
+            "name": "Biscut",
+            "price": "55"
+        },
+
+        {
+            "name": "Dudh + other saman",
+            "price": "52"
+        },
+        
+        {
+            "name": "kurkura",
+            "price": "25"
+        },
+
         {
             "name": "Dudh",
             "price": "32"
         },
 
         {
-            "name": "Colgate",
-            "price": "20"
-        },
-        
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "Maggi",
-            "price": "20"
-        },
-
-        {
-            "name": "Kurkura",
+            "name": "oreo",
             "price": "30"
         },
-        
+
         {
-            "name": "Kurkura",
-            "price": "10"
-        },
-  
-        {
-            "name": "Color",
-            "price": "15"
+            "name": "kurkura",
+            "price": "20"
         }
     ],
     
     "01/02/2026": [
         {
-            "name": "Dudh",
-            "price": "32"
+            "name": "eraser",
+            "price": "5"
         },
 
         {
-            "name": "Shampoo",
-            "price": "25"
+            "name": "Dudh",
+            "price": "32"
         },
         
         {
@@ -470,33 +394,13 @@
         },
 
         {
-            "name": "Dhup",
-            "price": "10"
+            "name": "kurkura",
+            "price": "20"
         },
 
         {
-            "name": "Color",
+            "name": "tedha medha",
             "price": "30"
-        },
-        
-        {
-            "name": "Shampoo",
-            "price": "25"
-        },
-  
-        {
-            "name": "Kurkura",
-            "price": "40"
-        },
-
-        {
-            "name": "Dahi",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
         }
     ],
     
@@ -507,8 +411,8 @@
         },
 
         {
-            "name": "Kurkura",
-            "price": "25"
+            "name": "coldrink",
+            "price": "20"
         },
         
         {
@@ -517,143 +421,136 @@
         },
 
         {
-            "name": "Namkeen",
-            "price": "55"
+            "name": "Biscut",
+            "price": "20"
         },
 
         {
-            "name": "Chaval",
-            "price": "40"
+            "name": "Dudh",
+            "price": "32"
         },
         
         {
-            "name": "Kurkura",
+            "name": "atta",
+            "price": "175"
+        }
+    ],
+
+    "03/03/2026": [
+        {
+            "name": "Biscut",
             "price": "20"
         },
-  
+        
+        {
+            "name": "kurkura",
+            "price": "20"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "30"
+        },
+
+        {
+            "name": "sabun",
+            "price": "10"
+        }
+    ],
+
+    "04/03/2026": [
+        {
+            "name": "Biscut",
+            "price": "15"
+        },
+
+        {
+            "name": "saman",
+            "price": "160"
+        },
+        
+        {
+            "name": "Shampoo",
+            "price": "10"
+        },
+
         {
             "name": "Saraf",
             "price": "50"
         },
 
         {
-            "name": "Ezee",
-            "price": "40"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "pads",
-            "price": "45"
-        }
-    ],
-
-    "04/02/2026": [
-        {
-            "name": "Kurkura",
-            "price": "30"
-        },
-        
-        {
-            "name": "Dhudh",
-            "price": "32"
-        }
-    ],
-
-    "05/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "25"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Kurkura",
-            "price": "20"
-        }
-    ],
-
-    "06/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "Kurkura",
+            "name": "Dahi",
             "price": "35"
         },
-        
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Namkeen",
+            "price": "10"
+        },
+
+        {
+            "name": "Color",
+            "price": "15"
+        }
+    ],
+
+    "05/03/2026": [
         {
             "name": "Biscut",
+            "price": "20"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        }
+    ],
+
+    "06/03/2026": [
+        {
+            "name": "Chai",
+            "price": "40"
+        },
+        
+        {
+            "name": "Kurkura",
+            "price": "30"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "Dudh",
+            "price": "32"
+        },
+
+        {
+            "name": "tedha medha",
+            "price": "10"
+        },
+
+        {
+            "name": "Maggi",
             "price": "30"
         },
 
         {
             "name": "Biscut",
-            "price": "60"
-        }
-    ],
-
-    "07/02/2026": [
-        {
-            "name": "Kurkura",
-            "price": "10"
-        },
-        
-        {
-            "name": "Kurkura",
-            "price": "20"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "08/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "Shampoo",
-            "price": "5"
-        },
-
-        {
-            "name": "Tel",
-            "price": "20"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "20"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
+            "price": "40"
         }
     ]
 }
