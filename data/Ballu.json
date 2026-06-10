@@ -1,81 +1,8 @@
 {
-    "09/02/2026": [
+    "12/05/2026": [
         {
-            "name": "Old pending",
-            "price": "66"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "15"
-        },
-        
-        {
-            "name": "maggi",
-            "price": "40"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "10/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "30"
-        },
-
-        {
-            "name": "Shampoo",
-            "price": "25"
-        }
-    ],
-
-    "11/02/2026": [
-        {
-            "name": "kurkura",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "12/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "25"
-        },
-
-        {
-            "name": "maggi",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "13/02/2026": [
-        {
-            "name": "Biscut (14 + 5)",
-            "price": "19"
+            "name": "old",
+            "price": "800"
         },
 
         {
@@ -83,155 +10,28 @@
             "price": "32"
         },
 
-        {
-            "name": "Copy",
-            "price": "80"
-        },
-
-        {
-            "name": "Kurkura (10 + 10)",
-            "price": "20"
-        }
-    ],
-
-    "14/02/2026": [
-        {
-            "name": "chips",
-            "price": "20"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Maggi",
-            "price": "20"
-        }
-    ],
-
-    "15/02/2026": [
-        {
-            "name": "Dhup",
-            "price": "40"
-        },
-
-        {
-            "name": "Chai",
-            "price": "40"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "16/02/2026": [
-        {
-            "name": "kurkura",
-            "price": "10"
-        },
-    
-        {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "17/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "15"
-        }
-    ],
-
-    "18/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
-        
         {
             "name": "Dahi",
-            "price": "20"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "50"
-        }
-    ],
-
-    "19/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Chai",
-            "price": "10"
-        },
-        
-        {
-            "name": "Biscut",
             "price": "35"
         },
-
-        {
-            "name": "Biscut",
-            "price": "10"
-        }
-    ],
-
-    "20/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "40"
-        },
-
-        {
-            "name": "Kurkura",
-            "price": "40"
-        }
-    ],
-
-    "21/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "20"
-        },
         
         {
-            "name": "Chai",
-            "price": "45"
+            "name": "dahi & biscuit",
+            "price": "55"
+        }
+    ],
+
+    "13/05/2026": [
+        {
+            "name": "Dahi & saman",
+            "price": "80"
+        }
+    ],
+
+    "14/05/2026": [
+        {
+            "name": "Dudh",
+            "price": "56"
         },
 
         {
@@ -240,317 +40,562 @@
         },
 
         {
-            "name": "Dudh",
-            "price": "32"
+            "name": "Atta",
+            "price": "360"
         },
 
         {
-            "name": "Biscut",
+            "name": "Dahi",
             "price": "35"
         }
     ],
 
-    "22/02/2026": [
-        {
-            "name": "Saraf",
-            "price": "70"
-        },
-
+    "15/05/2026": [
         {
             "name": "Dudh",
-            "price": "32"
+            "price": "34"
         },
-        
+
         {
-            "name": "kurkura",
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "Dahi",
             "price": "10"
         },
 
         {
-            "name": "dahi",
-            "price": "20"
-        }
-    ],
-
-    "23/02/2026": [
-        {
-            "name": "powder",
-            "price": "10"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "10"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Biscut",
-            "price": "25"
-        }
-    ],
-
-    "24/02/2026": [
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "dahi",
-            "price": "10"
-        },
-        
-        {
-            "name": "powder",
-            "price": "10"
-        }
-    ],
-
-    "25/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "50"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Namkeen",
-            "price": "30"
-        }
-    ],
-
-    "26/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "35"
-        },
-
-        {
-            "name": "coldrink",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh + other saman",
+            "name": "Namkeen and saman",
             "price": "42"
         }
     ],
-
-    "27/02/2026": [
-        {
-            "name": "Biscut",
-            "price": "55"
-        },
-
-        {
-            "name": "Dudh + other saman",
-            "price": "52"
-        },
-        
-        {
-            "name": "kurkura",
-            "price": "25"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "oreo",
-            "price": "30"
-        },
-
-        {
-            "name": "kurkura",
-            "price": "20"
-        }
-    ],
     
-    "01/02/2026": [
+    "16/05/2026": [
         {
-            "name": "eraser",
-            "price": "5"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-        
-        {
-            "name": "Biscut",
-            "price": "20"
+            "name": "biscuit",
+            "price": "40"
         },
 
         {
             "name": "kurkura",
-            "price": "20"
-        },
-
-        {
-            "name": "tedha medha",
-            "price": "30"
-        }
-    ],
-    
-    "02/02/2026": [
-        {
-            "name": "Kurkura",
             "price": "30"
         },
 
         {
-            "name": "coldrink",
-            "price": "20"
-        },
-        
-        {
-            "name": "Dhudh",
-            "price": "32"
+            "name": "Samose",
+            "price": "30"
         },
 
         {
-            "name": "Biscut",
-            "price": "20"
+            "name": "dudh",
+            "price": "33"
         },
 
         {
-            "name": "Dudh",
-            "price": "32"
+            "name": "Sabun",
+            "price": "10"
         },
-        
+
         {
-            "name": "atta",
-            "price": "175"
+            "name": "dudh and jarada",
+            "price": "43"
+        },
+
+        {
+            "name": "jarada",
+            "price": "10"
         }
     ],
 
-    "03/03/2026": [
+    "17/05/2026": [
         {
-            "name": "Biscut",
-            "price": "20"
-        },
-        
-        {
-            "name": "kurkura",
-            "price": "20"
+            "name": "biscuit",
+            "price": "40"
         },
 
         {
-            "name": "Dudh",
-            "price": "32"
+            "name": "dudh and biscut",
+            "price": "53"
+        },
+
+        {
+            "name": "namak",
+            "price": "30"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "kurkura and saman",
+            "price": "70"
+        }
+    ],
+
+     "19/05/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
         },
 
         {
             "name": "kurkura",
+            "price": "30"
+        },
+
+        {
+            "name": "biscuit",
             "price": "30"
         },
 
         {
             "name": "sabun",
             "price": "10"
+        },
+
+        {
+            "name": "dudh bread ans saman",
+            "price": "86"
         }
     ],
 
-    "04/03/2026": [
+    "20/05/2026": [
         {
-            "name": "Biscut",
-            "price": "15"
-        },
-
-        {
-            "name": "saman",
-            "price": "160"
-        },
-        
-        {
-            "name": "Shampoo",
-            "price": "10"
-        },
-
-        {
-            "name": "Saraf",
-            "price": "50"
-        },
-
-        {
-            "name": "Dahi",
-            "price": "35"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Namkeen",
-            "price": "10"
-        },
-
-        {
-            "name": "Color",
-            "price": "15"
-        }
-    ],
-
-    "05/03/2026": [
-        {
-            "name": "Biscut",
+            "name": "samose",
             "price": "20"
         },
 
         {
-            "name": "Dudh",
-            "price": "32"
-        }
-    ],
-
-    "06/03/2026": [
-        {
-            "name": "Chai",
-            "price": "40"
-        },
-        
-        {
-            "name": "Kurkura",
-            "price": "30"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "Dudh",
-            "price": "32"
-        },
-
-        {
-            "name": "tedha medha",
+            "name": "chocolate",
             "price": "10"
         },
 
         {
-            "name": "Maggi",
+            "name": "Namkeen and saman",
+            "price": "86"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "10"
+        }
+    ],
+
+    "21/05/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
+        }
+    ],
+
+    "22/05/2026": [
+        {
+            "name": "biscuit",
+            "price": "10"
+        },
+
+        {
+            "name": "mazza",
+            "price": "20"
+        },
+
+        {
+            "name": "biscuit",
             "price": "30"
         },
 
         {
-            "name": "Biscut",
+            "name": "biscuit",
+            "price": "30"
+        }
+    ],
+
+    "23/05/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "25"
+        },
+
+        {
+            "name": "phen",
+            "price": "20"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "dudh",
+            "price": "20"
+        }
+    ],
+
+    "24/05/2026": [
+        {
+            "name": "kurkure",
+            "price": "20"
+        },
+
+        {
+            "name": "fruity",
+            "price": "20"
+        },
+
+        {
+            "name": "lassi",
+            "price": "35"
+        },
+
+        {
+            "name": "saman",
+            "price": "53"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        }
+    ],
+
+    "25/05/2026": [
+        {
+            "name": "maggi",
+            "price": "30"
+        }
+    ],
+
+    "26/05/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "20"
+        },
+
+        {
+            "name": "TOFY",
+            "price": "15"
+        },
+
+        {
+            "name": "DUDH",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "20"
+        }
+    ],
+
+    "27/05/2026": [
+        {
+            "name": "Juna",
+            "price": "20"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh and saman",
+            "price": "58"
+        },
+
+        {
+            "name": "color",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscut",
+            "price": "20"
+        },
+
+        {
+            "name": "color",
+            "price": "15"
+        },
+
+        {
+            "name": "dahi",
+            "price": "35"
+        },
+
+        {
+            "name": "shampoo",
+            "price": "25"
+        },
+
+        {
+            "name": "phen",
+            "price": "20"
+        },
+
+        {
+            "name": "fruity",
+            "price": "10"
+        }
+    ],
+
+    "28/05/2026": [
+        {
+            "name": "Sabun",
             "price": "40"
+        },
+
+        {
+            "name": "dahi",
+            "price": "35"
+        },
+
+        {
+            "name": "dudh",
+            "price": "35"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "fan",
+            "price": "20"
+        }
+    ],
+
+    "29/05/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "10"
+        },
+
+        {
+            "name": "fan",
+            "price": "20"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        }
+    ],
+
+    "30/05/2026": [
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "maggi",
+            "price": "30"
+        },
+
+        {
+            "name": "dal",
+            "price": "20"
+        }
+    ],
+
+    "31/05/2026": [
+        {
+            "name": "biscuit",
+            "price": "20"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "dahi",
+            "price": "35"
+        }
+    ],
+
+    "01/06/2026": [
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "27"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "30"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "10"
+        }
+    ],
+
+    "02/06/2026": [
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "mirchi",
+            "price": "10"
+        }
+    ],
+
+    "03/06/2026": [
+        {
+            "name": "coldrink",
+            "price": "50"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "dal",
+            "price": "30"
+        }
+    ],
+
+    "04/06/2026": [
+        {
+            "name": "chocolate",
+            "price": "10"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        }
+    ],
+
+    "05/05/2026": [
+        {
+            "name": "colgate",
+            "price": "70"
+        },
+
+        {
+            "name": "sabun",
+            "price": "30"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "samosa",
+            "price": "20"
+        }
+    ],
+
+    "06/05/2026": [
+        {
+            "name": "biscuit",
+            "price": "30"
+        },
+
+        {
+            "name": "dudh",
+            "price": "33"
+        },
+
+        {
+            "name": "biscuit",
+            "price": "15"
+        },
+
+        {
+            "name": "kurkura",
+            "price": "40"
+        },
+
+        {
+            "name": "coke",
+            "price": "90"
+        },
+
+        {
+            "name": "dahi",
+            "price": "35"
         }
     ]
 }
